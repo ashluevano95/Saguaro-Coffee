@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1402" height="489.719" viewBox="0 0 1402 489.719">
+  <defs>
+    <filter id="Ellipse_1">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#a63b14" flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-119 -209.281)">
+    <path id="Path_8" data-name="Path 8" d="M700.441,632.787c99.686-51.3,201.818,0,201.818,0s48.378-65.978,98.907-52.425,68.805,45.176,68.805,45.176l-7.526,86.963H707.67Z" transform="translate(2 -31)" fill="#a63b14" stroke="#707070" stroke-width="1"/>
+    <path id="Path_1" data-name="Path 1" d="M825.2,678.586c-1.52,1.52,58.34-457.508-175.02-469.791-239.5-3.07-184.232,469.791-184.232,469.791C469.023,678.586,828.275,675.516,825.2,678.586Z" transform="translate(242 3)" fill="#d9c6b0" stroke="rgba(21,19,18,0.4)" stroke-linejoin="round" stroke-width="5" opacity="0.5"/>
+    <path id="Path_2" data-name="Path 2" d="M989.215,705.894c-16.393,2.208-27.83-9.463-27.83-9.463l-4.193-7.255s-8.768-15.141,24.018-18.926,35.074-24.289,35.074-24.289-2.669-33.752,3.813-56.778,25.924-14.195,32.786-12.3,12.962,28.941,12.581,46.921-9.054,44.792-17.441,57.409-56.137,24.683-56.137,24.683-2.287,134.613-5.337,137.452-57.758,3.154-57.758,3.154,4.014-64.476,0-65.217-12.067-5.105-15.131-5.95C871.005,763.6,849.111,736.1,849.111,736.1s-6.1-98.1,0-118.6,33.93-11.356,33.93-11.356l8.006,11.356v77.282l3.05,20.188,13.724,13.248s-2.287-.315,24.4,7.886S923.643,566,943.086,527.83s44.6-4.1,46.129,0,7.625,132.483,4.575,138.161" transform="translate(-122.753 -164.91)" fill="#365912" stroke="#365912" stroke-width="1"/>
+    <g data-type="innerShadowGroup">
+      <ellipse id="Ellipse_1-2" data-name="Ellipse 1" cx="57.5" cy="57" rx="57.5" ry="57" transform="translate(943 374)" fill="#a63b14" style="mix-blend-mode: hard-light;isolation: isolate"/>
+      <g transform="matrix(1, 0, 0, 1, 119, 209.28)" filter="url(#Ellipse_1)" style="mix-blend-mode: hard-light;isolation: isolate">
+        <ellipse id="Ellipse_1-3" data-name="Ellipse 1" cx="57.5" cy="57" rx="57.5" ry="57" transform="translate(824 164.72)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Path_3" data-name="Path 3" d="M737.818,492.117c3.452,100.536-21.86,113.546,71.333,158.492" transform="translate(-2.724 -45.431)" fill="none" stroke="#2f4812" stroke-width="1"/>
+    <path id="Path_4" data-name="Path 4" d="M737.811,492.117c3.416,96.9-21.632,109.441,70.589,152.761" transform="translate(8.027 -45.7)" fill="none" stroke="#2f4812" stroke-width="1"/>
+    <path id="Path_5" data-name="Path 5" d="M737.3,492.117c.9,76.156-5.7,86.012,18.6,120.058" transform="translate(25.427 -45.7)" fill="none" stroke="#2f4812" stroke-width="1"/>
+    <line id="Line_1" data-name="Line 1" x2="8" y2="327" transform="translate(825.5 354.5)" fill="none" stroke="#2f4812" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="5" y2="159.554" transform="translate(840.5 350.723)" fill="none" stroke="#2f4812" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" y2="146.777" transform="translate(845.5 534.723)" fill="none" stroke="#2f4812" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="1" y2="152" transform="translate(854.5 354.5)" fill="none" stroke="#2f4812" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" y2="135" transform="translate(855.5 546.5)" fill="none" stroke="#2f4812" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" x2="2" y2="143" transform="translate(864.5 363.5)" fill="none" stroke="#2f4812" stroke-width="1"/>
+    <path id="Path_6" data-name="Path 6" d="M924.444,449.114s25.029,92.148-56.587,124.4" transform="translate(2 -39.291)" fill="none" stroke="#314d11" stroke-width="1"/>
+    <path id="Path_7" data-name="Path 7" d="M923.761,449.114s24.727,86.006-55.9,116.108" transform="translate(-9.87 -39.291)" fill="none" stroke="#2e4910" stroke-width="1"/>
+    <text id="Saguaro_" data-name="Saguaro " transform="translate(119 671)" fill="#d96b2b" font-size="104" font-family="Ultra-Regular, Ultra"><tspan x="0" y="0">Saguaro </tspan></text>
+    <text id="Coffee" transform="translate(1104 671)" fill="#d96b2b" font-size="104" font-family="Ultra-Regular, Ultra"><tspan x="0" y="0">Coffee</tspan></text>
+  </g>
+</svg>
